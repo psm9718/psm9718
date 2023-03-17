@@ -1,4 +1,4 @@
-## Brevity is the soul of S/W 🤓
+## Brevity is the Soul of S/W 🤓
 
 <!--
 ### 🐾 Tech Stack
